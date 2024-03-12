@@ -102,4 +102,3 @@ AND jh.department_id(+) = 80;
 
 
 
-
